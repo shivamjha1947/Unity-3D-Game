@@ -11,3 +11,7 @@ We developed a multi-level kart racing game with Unity
 3D platform and successfully hosted it through the Unity
 WebGL platform so that everyone could play and enjoy our
 masterpiece.
+
+How to Open:
+--
+Download the ZIP file and then unzip it. Now open it through Unity Hub.
