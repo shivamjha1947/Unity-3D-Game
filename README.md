@@ -1,2 +1,2 @@
-# Unity-3D-Game
-Unity 3D game
+# CG Project
+Game development with Unity-3d
